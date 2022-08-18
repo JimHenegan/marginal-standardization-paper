@@ -9,7 +9,7 @@ We provide pre-calculated BMI spline terms, as these terms were regularly used f
 | Variable Name | Variable Label                               |
 | ------------- | -------------------------------------------- |
 | `synth_id`      | Row number of the synthetic dataset          |
-| `death`         | Participant is known to have died by Visit 7 |
+| `death`         | Participant is known to have died by Visit 7 (1 = Yes, 0 = No) |
 | `eversmoke`     | Participant ever smoked cigarettes (1 = Yes, 0 = No) |
 | `male` | Male indicator (1 = Male, 0 = Female) |
 | `age` | Age at baseline visit in years | 
