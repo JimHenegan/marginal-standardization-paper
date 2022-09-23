@@ -11,4 +11,4 @@ using Stata.
 
 One script ([`01-average-treatment-effect-by-hand.do`](./01-average-treatment-effect-by-hand.do)) shows how to compute these estimates "by hand."  
 
-The other ([`02-average-treatment-effect-with-margins.do`](./01-average-treatment-effect-with-margins.do)) shows how to compute the estimates Stata's `margins` command.
+The other ([`02-average-treatment-effect-with-margins.do`](./02-average-treatment-effect-with-margins.do)) shows how to compute the estimates Stata's `margins` command.
