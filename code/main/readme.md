@@ -7,9 +7,5 @@ The table of subfolders below was designed to help a reader of the paper follow 
 | Subfolder  | Description  | Corresponding Section of Paper |
 |-------------------------------|--------------|------------------|
 | [`table-1`](./table-1) | Compute numbers used to generate Table 1 | *Direct  standardization: adjustment for confounding*  |
-| [`figure-1`](./figure-1) | Compute numbers used to generate Figure 1 | *Direct  standardization: adjustment for confounding* |
 | [`table-2`](./table-2) | Compute numbers used to generate Table 2 |  *Direct  standardization: adjustment for confounding*  |
-| [`figure-2`](./figure-2) | Generate the basis for Figure 2  | *Direct  standardization: adjustment for confounding* |
-| [`figure-3`](./figure-3) | Compute numbers used to generate Figure 3 | *Marginal standardization: Direct standardization from regression* | 
 | [`table-3`](./table-3) | Compute numbers shown in Table 3 | *Regression-model-based standardization* | 
-| [`avg-trt-effect`](./avg-trt-effect) | Illustrate code related to the "average treatment effect among treated" concept | *Standardization in more complex applications: Standardization and prediction in subgroup and other populations* | 
