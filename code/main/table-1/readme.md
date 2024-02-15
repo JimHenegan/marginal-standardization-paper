@@ -1,6 +1,6 @@
-# Appendix Table 1
+# Table 1
 
-This folder contains a script ([`appendix-table-1.do`](./appendix-table-1.do)) that produces Table 1 in the Appendix.
+This folder contains a script ([`table-1.do`](./table-1.do)) that produces values used in Table 1.
 
 ## Table of Comparisons
 
