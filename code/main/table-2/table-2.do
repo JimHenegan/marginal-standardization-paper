@@ -62,3 +62,9 @@ get_standardized_death_rates
 // Overall Mortality
 gen pop1=1
 dstdize death pop male, by(eversmoke)
+
+// Estimate the standardized risk difference
+display (r(adj)[1,2] - r(adj)[1,1]) 
+
+// Estimate the standardized risk ratio
+display (r(adj)[1,2] / r(adj)[1,1]) 

@@ -1,6 +1,6 @@
 # Links
 
-Here we provide some links to resources related to the software mentioned in Section 8 of the appendix.  
+Here we provide some links to resources related to the software mentioned in Section 7 of the appendix.  
 
 | Language / Software | Link | Description |
 | -------  | ---- | ----------- | 
