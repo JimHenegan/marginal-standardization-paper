@@ -8,9 +8,6 @@ The table of subfolders, which has been organized by the *Corresponding Section 
 | [`misspecification-examples`](./misspecification-examples) | Illustrate effects of model misspecification | 2 | 
 | [`figure-2`](./figure-2) | Generate the basis for Figure 2.1  | 2 |
 | [`sim-misspecification`](./sim-misspecification) | Follow along with the simulated model misspecification example | 2.1  |
-
 | [`figure-3`](./figure-3) | Compute numbers used to generate Figure 3 | *Marginal standardization: Direct standardization from regression* | 
-
-
 | [`step-by-step`](./step-by-step) | Follow along with the "step-by-step" example | 3  |
 | [`logit-standardization`](./logit-standardization) | An R function that uses predictive margins from logistic regression to estimate standardized risk differences and ratios| 10  |
