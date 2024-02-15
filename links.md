@@ -5,6 +5,7 @@ Here we provide some links to resources related to the software mentioned in Sec
 | Language / Software | Link | Description |
 | -------  | ---- | ----------- | 
 | Stata | [https://www.stata.com/manuals/rmargins.pdf](https://www.stata.com/manuals/rmargins.pdf) | Manual for the `margins` command |
+| Stata | [https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300304](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300304) | User supplied `adjrr` command | 
 | Stata | [http://www.stata.com/manuals13/te.pdf](http://www.stata.com/manuals13/te.pdf) | Stata Treatment-Effects reference manual |
 | SAS | [https://support.sas.com/kb/63/038.html](https://support.sas.com/kb/63/038.html) | SAS Sample 63038: Predictive margins and average marginal effects |
 | SAS | [https://documentation.sas.com/doc/en/pgmsascdc/v_048/statug/statug_introcom_sect064.htm](https://documentation.sas.com/doc/en/pgmsascdc/v_048/statug/statug_introcom_sect064.htm) | MARGINS Statement | 
