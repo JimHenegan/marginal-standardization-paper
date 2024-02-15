@@ -7,6 +7,7 @@ Here we provide some links to resources related to the software mentioned in Sec
 | Stata | [https://www.stata.com/manuals/rmargins.pdf](https://www.stata.com/manuals/rmargins.pdf) | Manual for the `margins` command |
 | Stata | [http://www.stata.com/manuals13/te.pdf](http://www.stata.com/manuals13/te.pdf) | Stata Treatment-Effects reference manual |
 | SAS | [https://support.sas.com/kb/63/038.html](https://support.sas.com/kb/63/038.html) | SAS Sample 63038: Predictive margins and average marginal effects |
+| SAS | [https://documentation.sas.com/doc/en/pgmsascdc/v_048/statug/statug_introcom_sect064.htm](https://documentation.sas.com/doc/en/pgmsascdc/v_048/statug/statug_introcom_sect064.htm) | MARGINS Statement | 
 | SAS | [https://support.sas.com/documentation/onlinedoc/stat/142/causaltrt.pdf](https://support.sas.com/documentation/onlinedoc/stat/142/causaltrt.pdf) | Documentation for the CAUSALTRT procedure | 
 | R | [https://gist.github.com/tslumley/2e74cd0ac12a671d2724](https://gist.github.com/tslumley/2e74cd0ac12a671d2724) | Github gist showing how to use the `svypredmeans` function from the `survey` package |
 | R | [https://cran.r-project.org/web/packages/RISCA/RISCA.pdf](https://cran.r-project.org/web/packages/RISCA/RISCA.pdf) | Reference manual for the `RISCA`  package.  See the function `gc.logistic` |
