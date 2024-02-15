@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This repository contains resources related to the paper _Standardization and Prediction to Control Confounding: Estimating risk differences and ratios for clinical interpretations and decisionmaking_ by Localio, et. al.
+This repository contains resources related to the paper _Standardization and Prediction to Control Confounding: Estimating risk differences and ratios for clinical interpretations and decisionmaking_ by Localio, et al.
 
 ### Resources
 
