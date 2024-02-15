@@ -17,4 +17,6 @@ Here we provide some links to resources related to the software mentioned in Sec
 | R | [https://cran.r-project.org/web/packages/stdReg/stdReg.pdf](https://cran.r-project.org/web/packages/stdReg/stdReg.pdf) | Reference manual for the `stdReg` package, which estimates logistic-regression-based standardization, with a follow up command to estimate differences and ratios and their confidence bounds |
 | R | [https://cran.r-project.org/web/packages/riskCommunicator/riskCommunicator.pdf](https://cran.r-project.org/web/packages/riskCommunicator/riskCommunicator.pdf) | Reference manual for `riskCommunicator` package |
 | R | [https://cran.r-project.org/web/packages/sbw/sbw.pdf](https://cran.r-project.org/web/packages/sbw/sbw.pdf) | `sbw` package |
+| R | [https://cran.r-project.org/web/packages/designmatch/designmatch.pdf ](https://cran.r-project.org/web/packages/designmatch/designmatch.pdf ) | `designmatch` package |
+| R | [https://cran.r-project.org/web/packages/MatchIt/vignettes/MatchIt.html](https://cran.r-project.org/web/packages/MatchIt/vignettes/MatchIt.html) | `matchit` package |
 | SUDAAN | [https://www.rti.org/impact/sudaan-statistical-software-analyzing-correlated-data](https://www.rti.org/impact/sudaan-statistical-software-analyzing-correlated-data) | SUDAAN homepage |
