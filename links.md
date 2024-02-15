@@ -11,6 +11,7 @@ Here we provide some links to resources related to the software mentioned in Sec
 | SAS | [https://documentation.sas.com/doc/en/pgmsascdc/v_048/statug/statug_introcom_sect064.htm](https://documentation.sas.com/doc/en/pgmsascdc/v_048/statug/statug_introcom_sect064.htm) | MARGINS Statement | 
 | SAS | [https://support.sas.com/documentation/onlinedoc/stat/142/causaltrt.pdf](https://support.sas.com/documentation/onlinedoc/stat/142/causaltrt.pdf) | Documentation for the CAUSALTRT procedure | 
 | SAS | [https://support.sas.com/kb/63/038.html](https://support.sas.com/kb/63/038.html) | `%margins` macro |
+| R | [https://cran.r-project.org/web/packages/marginaleffects/marginaleffects.pdf](https://cran.r-project.org/web/packages/marginaleffects/marginaleffects.pdf) | `marginaleffects` package |
 | R | [https://gist.github.com/tslumley/2e74cd0ac12a671d2724](https://gist.github.com/tslumley/2e74cd0ac12a671d2724) | Github gist showing how to use the `svypredmeans` function from the `survey` package |
 | R | [https://cran.r-project.org/web/packages/RISCA/RISCA.pdf](https://cran.r-project.org/web/packages/RISCA/RISCA.pdf) | Reference manual for the `RISCA`  package.  See the function `gc.logistic` |
 | R| [https://cran.r-project.org/web/packages/stdReg/stdReg.pdf](https://cran.r-project.org/web/packages/stdReg/stdReg.pdf) | Reference manual for the `stdReg` package, which estimates logistic-regression-based standardization, with a follow up command to estimate differences and ratios and their confidence bounds |
