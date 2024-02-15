@@ -1,5 +1,5 @@
 /*
-Appendix Table 2
+Table 2
 */
 
 // Load in the synthetic data

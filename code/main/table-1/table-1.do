@@ -1,5 +1,5 @@
 /*
-Appendix Table 1:  Counts and Crude Estimates
+Table 1:  Counts and Crude Estimates
 */
 
 // Load in the synthetic data

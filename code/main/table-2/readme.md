@@ -1,6 +1,6 @@
-# Appendix Table 2
+# Table 2
 
-This folder contains a Stata script ([`appendix-table-1.do`](./appendix-table-1.do)) that produces Table 2 in the Appendix.
+This folder contains a Stata script ([`table-2.do`](./table-2.do)) that produces values used in Table 2.
 
 ## Table of Comparisons
 
